@@ -1,2 +1,2 @@
-# ayushd70.github.io
+# Nirmesh Bansal
 MY Personal Website Hosted on GitHub
